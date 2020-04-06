@@ -19,7 +19,7 @@ This folder contains the code for implementing five methods that can be used to 
 
 
 References<br />
-[1] Tao Y andWang L. Adaptive contrast weighted learning for multi-stage multi-treatment decision-making. Biometrics
+[1] Tao Y and Wang L. Adaptive contrast weighted learning for multi-stage multi-treatment decision-making. Biometrics
 2017; 73(1): 145–155.<br />
 [2] Logan BR, Sparapani R, McCulloch RE et al. Decision making and uncertainty quantification for individualized treatments using bayesian additive regression trees. Stat Method Med Res 2019; 28(4): 1079–1093.<br />
 [3] Qi Z and Liu Y. D-learning to estimate optimal individual treatment rules. Electron J Stat 2018; 12(2): 3601–3638.<br />
